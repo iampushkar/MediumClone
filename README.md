@@ -18,3 +18,7 @@ This repository contains the backend API documentation for a blogging applicatio
 #### [Comment Service](API-CommentService.md)
 
 #### [Clap-Image Service](API-Clap-ImageService.md)
+
+## Database Schema
+
+#### [Schema Design](Schema.md)
